@@ -4,29 +4,33 @@
 
 **Junior Data Analyst | Python · SQL · Power BI**
 
-Pivoting from IT support into data analytics. Finishing an AAS in AI Data Specialist at [WCTC](https://www.wctc.edu/) (expected 2027). I've spent the last few years inside enterprise systems like ServiceNow and Active Directory — the systems that generate the data most companies are trying to analyze.
+Pivoting from IT support into data analytics. Finishing an AAS in AI Data Specialist at [WCTC](https://www.wctc.edu/), expected 2027. The last few years I worked inside ServiceNow and Active Directory, which is basically the source of the data most companies are trying to analyze. Turns out that helps a lot.
 
-Looking for part-time analyst work or a data internship. Remote preferred, Milwaukee/Waukesha OK.
+Looking for part-time analyst work or a data internship. Remote preferred, Milwaukee/Waukesha works too.
 
 ---
 
 ## 📊 Featured Data Work
 
-- **[olympic-medal-etl](https://github.com/Damatnic/olympic-medal-etl)** — End-to-end Python ETL: web scraping (BeautifulSoup) + SQL Server enrichment (pymssql) + multi-tab Excel output (openpyxl). 1,344 records processed across Tokyo 2020 + Beijing 2022.
-- **[car-rental-sql-server](https://github.com/Damatnic/car-rental-sql-server)** — 11-table SQL Server schema designed from an ER diagram. Year-based table partitioning with custom filegroups, AFTER INSERT/UPDATE/DELETE history triggers, filtered + covering indexes.
-- **[power-bi-sales-dashboard](https://github.com/Damatnic/power-bi-sales-dashboard)** — 3-page interactive Power BI dashboard on a star schema with DAX measures, slicer-driven filtering, and drill-through pages.
+- **[olympic-medal-etl](https://github.com/Damatnic/olympic-medal-etl)** · Python ETL pipeline. Scrapes Olympic medal pages with BeautifulSoup, enriches them from SQL Server with pymssql, exports a multi-tab Excel via openpyxl. 1,344 records across Tokyo 2020 and Beijing 2022.
+- **[car-rental-sql-server](https://github.com/Damatnic/car-rental-sql-server)** · 11-table SQL Server schema designed from an ER diagram. Year-based table partitioning with a dedicated 2022 filegroup, AFTER INSERT/UPDATE/DELETE history triggers, filtered + covering indexes.
+- **[power-bi-sales-dashboard](https://github.com/Damatnic/power-bi-sales-dashboard)** · Three-page Power BI dashboard on a star schema with DAX measures, slicer-driven filtering, and drill-through pages.
 
-## 🛠️ Also Building
+## 🌐 Portfolio
 
-- **[astral-swap](https://github.com/Damatnic/astral-swap)** — Party game (React Native + Expo), 494/498 tests passing. Built for fun, ships clean.
-- **[throughline-site](https://github.com/Damatnic/throughline-site)** — Next.js 15 reader for a writing platform. Live at [throughline-site.vercel.app](https://throughline-site.vercel.app).
-- Plus a handful of other side projects under the Astral Platforms umbrella.
+[damato-data.vercel.app](https://damato-data.vercel.app) · same projects with screenshots, a resume download, and the longer story.
 
-## 🧰 Tech I work with
+## 🛠️ Other Stuff I've Built
 
-**Data:** Python · pandas · numpy · SQL (T-SQL) · Power BI · Jupyter · BeautifulSoup · REST APIs · openpyxl · ETL
+- **[astral-swap](https://github.com/Damatnic/astral-swap)** · Party game (React Native + Expo). 494/498 tests passing.
+- **[python-mastery](https://github.com/Damatnic/python-mastery)** · Python learning platform built with Next.js.
+- **[sql-mastery](https://github.com/Damatnic/sql-mastery)** · SQL learning platform, same stack.
 
-**Databases:** SQL Server · partitioning · triggers · stored procedures · indexing · ER modeling
+## 🧰 Tech
+
+**Data:** Python · pandas · numpy · SQL · T-SQL · Power BI · Jupyter · BeautifulSoup · REST APIs · openpyxl · ETL
+
+**SQL Server:** Partitioning · triggers · stored procedures · indexing · ER modeling
 
 **Web/Apps:** Next.js · React · Node.js · TypeScript · PostgreSQL · Vercel
 
@@ -38,12 +42,8 @@ Looking for part-time analyst work or a data internship. Remote preferred, Milwa
 - CompTIA Network+ (2024)
 - Cisco CCNA (2022)
 
-## 📫 Contact
+## 📫 Reach Out
 
 - 📧 nickdamatoit@gmail.com
 - 💼 [linkedin.com/in/nicholas-damato2](https://linkedin.com/in/nicholas-damato2)
 - 📍 Pewaukee, WI
-
----
-
-<sub>Profile last updated: May 2026</sub>
