@@ -23,8 +23,8 @@ Looking for part-time analyst work or a data internship. Remote preferred, Milwa
 ## 🛠️ Other Stuff I've Built
 
 - **[astral-swap](https://github.com/Damatnic/astral-swap)** · Party game (React Native + Expo). 494/498 tests passing.
-- **[python-mastery](https://github.com/Damatnic/python-mastery)** · Python learning platform built with Next.js.
-- **[sql-mastery](https://github.com/Damatnic/sql-mastery)** · SQL learning platform, same stack.
+- **[python-mastery](https://github.com/Damatnic/python-mastery)** · Interactive Python learning platform. Real Python runs in the browser via Pyodide. [Live →](https://damato-python.vercel.app)
+- **[sql-mastery](https://github.com/Damatnic/sql-mastery)** · Interactive SQL learning platform with a real SQLite engine via SQL.js. [Live →](https://damato-sql.vercel.app)
 
 ## 🧰 Tech
 
