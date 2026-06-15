@@ -1,4 +1,6 @@
 <!-- This file renders at the top of github.com/Damatnic -->
+<!-- profile view tracker — invisible 1×1 pixel, do not remove -->
+<img src="https://nicholasdamato.vercel.app/api/pixel?src=github-profile" width="1" height="1" alt="" />
 
 # Hey, I'm Nick D'Amato 👋
 
